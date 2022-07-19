@@ -1,22 +1,9 @@
 
 ### World Billionaire Analysis
 
+```markdown
 import pandas as pd
 import numpy as np
-
-
-
-
-
-
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
