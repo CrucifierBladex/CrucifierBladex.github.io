@@ -11,7 +11,7 @@ import plotly.express as px
 df = pd.read_csv("https://raw.githubusercontent.com/amankharwal/Website-data/master/Billionaire.csv")
 df.head()
 
-#Importing Libraries and the Dataset
+Importing Libraries and the Dataset
 ## Header 2
 ### Header 3
 
