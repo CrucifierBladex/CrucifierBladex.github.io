@@ -1,5 +1,5 @@
 
-#World Billionaire Analysis in Python
+World Billionaire Analysis in Python
 
 ```
 import pandas as pd
