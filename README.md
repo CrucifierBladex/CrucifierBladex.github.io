@@ -1,6 +1,6 @@
 
 #World Billionaire Analysis in Python
-**Importing Libraries and the Dataset**
+
 ```
 import pandas as pd
 import numpy as np
@@ -11,7 +11,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/amankharwal/Website-data/mas
 df.head()
 ```
 
-
+**Importing Libraries and the Dataset**
 
 
 
